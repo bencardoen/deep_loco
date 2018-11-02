@@ -1,3 +1,5 @@
+## A fork of https://github.com/nboyd/deep_loco, all rights reserved to the orignal authors.
+
 # deep_loco
 
 A sample implementation of [deeploco](https://www.biorxiv.org/content/early/2018/02/16/267096).
